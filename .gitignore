@@ -1,7 +1,0 @@
-*.out
-*.o
-*.exe
-*.a
-.vscode/
-main.c
-.gitignore
